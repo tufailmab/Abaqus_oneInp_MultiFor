@@ -1,0 +1,2 @@
+1. Require 1 input file and multiple Fortran files in current directory.
+2. Keep your .inp files and .for file, along with this "WithSubroutine.py" in current directory, double click on the "SubmitAllJobs.bat" file. Enjoy!
